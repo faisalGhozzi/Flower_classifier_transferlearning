@@ -1,5 +1,7 @@
 # Flower classification with transfer learning
 
+> To export the model just run the "research/Flower_classification.ipynb" notebook
+
 ## CLI application usage :
 
 usage: main.py [-h] [-i] [-u] [-p]
